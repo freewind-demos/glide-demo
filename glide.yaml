@@ -1,0 +1,4 @@
+package: github.com/golang-demos/glide-demo
+import:
+- package: github.com/golang-demos/go-concat-strings-library
+  version: ^0.2.0
