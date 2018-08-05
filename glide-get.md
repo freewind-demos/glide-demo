@@ -1,3 +1,11 @@
+运行以下命令：
+
+```
+glide get github.com/golang-demos/go-concat-strings-library
+```
+
+输出如下：
+
 ```
 glide get github.com/golang-demos/go-concat-strings-library
 [INFO]  Preparing to install 1 package.
